@@ -1,6 +1,6 @@
 ---
 title: Contact
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
+On fait les courses est actuellement composée de 2 membres.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+Pour nous contacter : [bonjour@onfaitlescourses.org](mailto:bonjour@onfaitlescourses.org)
